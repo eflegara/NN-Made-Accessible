@@ -16,6 +16,7 @@ A curated list of online articles related to deep learning and neural networks t
 ## Recurrent Neural Networks (RNNs)
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
+- [Rohan & Lenny #3: Recurrent Neural Networks](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
 
 ## Generative Adversarial Nets
 - [Generative Adversarial Nets](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)
