@@ -1,4 +1,4 @@
-# Neural Nets and Deep Neural Nets References
+# Neural Nets and Deep Learning References
 A curated list of online articles related to deep learning and neural networks that are especially easy and enjoyable to read
 
 ## Backpropagation
